@@ -11,7 +11,8 @@
       "category": "Fiction",
       "tags": ["Classics", "Romance"],
       "publisher": "Scribner",
-      "yearOfPublishing": 1925
+      "yearOfPublishing": 1925,
+      "generation": "Lost Generation"
     },
     {
       "bookId": 2,
@@ -24,59 +25,120 @@
       "category": "Fiction",
       "tags": ["Dystopian", "Political"],
       "publisher": "Secker & Warburg",
-      "yearOfPublishing": 1949
+      "yearOfPublishing": 1949,
+      "generation": "Post-WWII"
     },
     {
       "bookId": 3,
       "bookName": "To Kill a Mockingbird",
       "author": "Harper Lee",
-      "image": "https://i.ibb.co/qF9TsYH/book.png",
+      "image": "https://i.ibb.co/N7dM5J7/to-kill-a-mockingbird.jpg",
       "review": "A timeless exploration of race and morality",
       "totalPages": 281,
       "rating": 4.8,
       "category": "Fiction",
       "tags": ["Classic", "Legal Drama"],
       "publisher": "J. B. Lippincott & Co.",
-      "yearOfPublishing": 1960
+      "yearOfPublishing": 1960,
+      "generation": "Baby Boomers"
     },
     {
       "bookId": 4,
       "bookName": "The Catcher in the Rye",
       "author": "J.D. Salinger",
-      "image": "https://i.ibb.co/pWTZQKG/cover.png",
+      "image": "https://i.ibb.co/dKR3bfJ/catcher-in-the-rye.jpg",
       "review": "An iconic coming-of-age novel that resonates with readers",
       "totalPages": 224,
       "rating": 4.6,
       "category": "Fiction",
       "tags": ["Coming-of-age", "Bildungsroman"],
       "publisher": "Little, Brown and Company",
-      "yearOfPublishing": 1951
+      "yearOfPublishing": 1951,
+      "generation": "Post-WWII"
     },
     {
       "bookId": 5,
       "bookName": "Pride and Prejudice",
       "author": "Jane Austen",
-      "image": "https://i.ibb.co/qF9TsYH/book.png",
+      "image": "https://i.ibb.co/gJX7gF1/pride-and-prejudice.jpg",
       "review": "A delightful romantic comedy of manners",
       "totalPages": 279,
       "rating": 4.9,
       "category": "Fiction",
       "tags": ["Romance", "Satire"],
       "publisher": "T. Egerton, Whitehall",
-      "yearOfPublishing": 1813
+      "yearOfPublishing": 1813,
+      "generation": "Regency Era"
     },
     {
       "bookId": 6,
       "bookName": "The Lord of the Rings",
       "author": "J.R.R. Tolkien",
-      "image": "https://i.ibb.co/pWTZQKG/cover.png",
+      "image": "https://i.ibb.co/VBNMz49/lord-of-the-rings.jpg",
       "review": "A monumental fantasy epic with richly drawn characters and a vividly realized world",
       "totalPages": 1178,
       "rating": 4.9,
       "category": "Fantasy",
       "tags": ["Epic", "High Fantasy"],
       "publisher": "Allen & Unwin",
-      "yearOfPublishing": 1954
+      "yearOfPublishing": 1954,
+      "generation": "Post-WWII"
+    },
+    {
+      "bookId": 7,
+      "bookName": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "image": "https://i.ibb.co/dGW6DkJ/harry-potter.jpg",
+      "review": "A magical journey into the world of wizards and witches",
+      "totalPages": 320,
+      "rating": 4.8,
+      "category": "Fantasy",
+      "tags": ["Magic", "Adventure"],
+      "publisher": "Bloomsbury",
+      "yearOfPublishing": 1997,
+      "generation": "Millennials"
+    },
+    {
+      "bookId": 8,
+      "bookName": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "https://i.ibb.co/ZTbK0T1/the-hobbit.jpg",
+      "review": "A charming prelude to The Lord of the Rings",
+      "totalPages": 310,
+      "rating": 4.7,
+      "category": "Fantasy",
+      "tags": ["Adventure", "Children's literature"],
+      "publisher": "George Allen & Unwin",
+      "yearOfPublishing": 1937,
+      "generation": "Silent Generation"
+    },
+    {
+      "bookId": 9,
+      "bookName": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "image": "https://i.ibb.co/4WhZ0xN/the-hunger-games.jpg",
+      "review": "An adrenaline-fueled dystopian thriller",
+      "totalPages": 374,
+      "rating": 4.6,
+      "category": "Young Adult",
+      "tags": ["Dystopian", "Action"],
+      "publisher": "Scholastic Corporation",
+      "yearOfPublishing": 2008,
+      "generation": "Millennials"
+    },
+    {
+      "bookId": 10,
+      "bookName": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "image": "https://i.ibb.co/3h7xgWL/the-da-vinci-code.jpg",
+      "review": "A gripping mystery that blends history, art, and conspiracy",
+      "totalPages": 454,
+      "rating": 4.3,
+      "category": "Thriller",
+      "tags": ["Mystery", "Conspiracy"],
+      "publisher": "Doubleday",
+      "yearOfPublishing": 2003,
+      "generation": "Millennials"
     }
   ]
 }
